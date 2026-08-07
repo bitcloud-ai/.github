@@ -2,7 +2,7 @@
   <img src="bitcloud-logo.png" alt="BitCloud" width="420"/>
 </p>
 
-<h3 align="center">杭州比特云网络科技有限公司</h3>
+<h3 align="center">杭州比特云网络技术有限公司</h3>
 
 <p align="center">
   <b>AI Compute Infrastructure & LLM Inference</b><br/>
