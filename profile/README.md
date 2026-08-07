@@ -1,4 +1,8 @@
-# BitCloud · 杭州比特云网络科技有限公司
+<p align="center">
+  <img src="bitcloud-logo.png" alt="BitCloud" width="420"/>
+</p>
+
+<h3 align="center">杭州比特云网络科技有限公司</h3>
 
 <p align="center">
   <b>AI Compute Infrastructure & LLM Inference</b><br/>
@@ -36,3 +40,25 @@
 - 📍 办公地点：阿里中心 · 杭州未科
 - 🌐 官网：https://www.bitcloud.com.cn/
 - 📧 商务合作 / 招聘：bty@bitcloud.com.cn
+
+---
+
+## About Us / 关于我们 (English)
+
+**BitCloud** is an AI-compute infrastructure company founded in Hangzhou, China, in December 2025.
+
+We focus on **LLM deployment & inference optimization**, providing efficient, stable, and cost-effective compute and AI services for enterprises.
+
+### Products
+
+| Product | Role |
+|---|---|
+| **Optimizer** | Inference optimization core |
+| **Router** | Unified service & scheduling platform |
+| **Pool** | Compute resource foundation |
+
+### Connect
+
+- 📍 Alibaba Center · Hangzhou Future Science & Technology City
+- 🌐 https://www.bitcloud.com.cn/
+- 📧 bty@bitcloud.com.cn
