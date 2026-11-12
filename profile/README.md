@@ -38,8 +38,8 @@
 ## 联系我们
 
 - 📍 办公地点：阿里中心 · 杭州未科
-- 🌐 官网：https://www.bitcloud.com.cn/
-- 📧 商务合作 / 招聘：bty@bitcloud.com.cn
+- 🌐 官网：https://www.bitcloud.com.cn
+- 📧 商务合作 / 招聘：contact@bitcloud.com.cn
 
 ---
 
@@ -60,5 +60,5 @@ We focus on **LLM deployment & inference optimization**, providing efficient, st
 ### Connect
 
 - 📍 Alibaba Center · Hangzhou Future Science & Technology City
-- 🌐 https://www.bitcloud.com.cn/
-- 📧 bty@bitcloud.com.cn
+- 🌐 https://www.bitcloud.com.cn
+- 📧 contact@bitcloud.com.cn
